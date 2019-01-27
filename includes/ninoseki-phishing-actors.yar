@@ -50,7 +50,6 @@ rule ninoseki_phishing_actor_emails_1
 	$sig40 = "thomasphart11@gmail.com"
 	$sig41 = "thomasantonini59@gmail.com"
 	$sig43 = "testnopass@test.com"
-	$sig45 = "terrafrost@php.net"
 	$sig46 = "telnat@bnc.ca"
 	$sig47 = "techouse@gmail.com"
 	$sig48 = "team_pbg@yahoo.com"
